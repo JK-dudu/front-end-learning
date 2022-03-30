@@ -1,5 +1,6 @@
 # front-end-learning
-front-end  system learning
+
+front-end system learning
 
 本仓库旨在记录系统学习前端应用技术的学习笔记
 
